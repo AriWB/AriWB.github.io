@@ -1,26 +1,21 @@
 # Ariyeh Weissman-Bennett — Engineering Portfolio
 
-Static portfolio for GitHub Pages. No build step, external JavaScript, analytics, cookies, or third-party font requests.
+Live portfolio: https://ariwb.github.io/
+
+Static GitHub Pages site with no build step. Deploys from `main` at the repository root.
 
 ## Pages
 
-- `index.html`: introduction, selected work, technical skills, background, contact.
-- `projects.html`: motor fault detection, wing design, and lightweight wrench.
-- `research.html`: grouped THEAM Lab research directory.
-- Five project HTML pages: objectives, contributions, methodology, results, and limitations.
-- Root image, favicon, and PDF files: report-derived wing photograph and public resume summary.
-- `styles.css`: responsive layout, print styling, keyboard focus and mobile navigation wrapping.
+- Home: background, featured work, skills, and contact.
+- Projects: motor fault detection, 3D-printed wing, and lightweight wrench.
+- Research: microfluidic fuel cell and pNIPAM hydrogel microactuators.
+- Five detailed case studies describing objectives, contributions, methods, results, and limitations.
+- Resume: original uploaded November 2026 resume PDF, reproduced unchanged at the owner's request.
 
-Open `index.html` locally to preview. Relative paths support both GitHub Pages user sites and project sites.
+## Source basis
 
-## Publication
+Content is based on the supplied resumes, MATLAB workflow, wing report, and owner's research descriptions. Wing outcomes are team simulation results. Research is labeled ongoing. Raw lab data, experimental recipes, proprietary code, and credentials are excluded.
 
-Prepared for the repository `AriWB.github.io`. Publication requires the owner's approval. After approval, configure GitHub Pages to deploy from `main` and `/ (root)`. No deployment workflow is included, so pushing files does not itself configure Pages.
+## Design
 
-## Source and privacy notes
-
-Content is based on the uploaded September 2026 resume, MATLAB code, wing report, and the owner's project description. The public resume copy removes phone number, citizenship, and the dated GPA entry; it is a reformatted summary of the September snapshot. Wing outcomes are team results and are explicitly labeled as simulations. Research recipes, raw data, unpublished geometry, credentials, and original MATLAB code are excluded.
-
-Repository visibility varies; private repository links require authorized GitHub access. This update is awaiting approval before upload to the public website repository.
-
-The wrench case study is based on the November 11, 2026 resume. The downloadable public resume summary remains the earlier September snapshot.
+Responsive dark green theme with light text and accessible keyboard focus. Relative links support local viewing and GitHub Pages.
