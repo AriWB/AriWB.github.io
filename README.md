@@ -5,8 +5,9 @@ Static portfolio for GitHub Pages. No build step, external JavaScript, analytics
 ## Pages
 
 - `index.html`: introduction, selected work, technical skills, background, contact.
-- `projects.html`: project directory.
-- Four project HTML pages: objectives, contributions, methodology, results, and limitations.
+- `projects.html`: motor fault detection, wing design, and lightweight wrench.
+- `research.html`: grouped THEAM Lab research directory.
+- Five project HTML pages: objectives, contributions, methodology, results, and limitations.
 - Root image, favicon, and PDF files: report-derived wing photograph and public resume summary.
 - `styles.css`: responsive layout, print styling, keyboard focus and mobile navigation wrapping.
 
@@ -20,4 +21,6 @@ Prepared for the repository `AriWB.github.io`. Publication requires the owner's 
 
 Content is based on the uploaded September 2026 resume, MATLAB code, wing report, and the owner's project description. The public resume copy removes phone number, citizenship, and the dated GPA entry; it is a reformatted summary of the September snapshot. Wing outcomes are team results and are explicitly labeled as simulations. Research recipes, raw data, unpublished geometry, credentials, and original MATLAB code are excluded.
 
-The repositories remain private until approved, so project repository links will be visible only to authorized GitHub users until then.
+Repository visibility varies; private repository links require authorized GitHub access. This update is awaiting approval before upload to the public website repository.
+
+The wrench case study is based on the November 11, 2026 resume. The downloadable public resume summary remains the earlier September snapshot.
